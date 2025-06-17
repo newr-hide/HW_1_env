@@ -2,4 +2,4 @@
 
 [Руководство по настройке Webpack](https://webpack.js.org/guides/)
 [Руководство по настройке GitHub Actions](https://docs.github.com/en/actions/quickstart)
-![CI](https://github.com/newr-hide/HW_1_env/actions/workflows/web.yml/badge.svg)
+[![GitHub Actions Demo](https://github.com/newr-hide/HW_1_env/actions/workflows/github-actions-demo.yml/badge.svg)](https://github.com/newr-hide/HW_1_env/actions/workflows/github-actions-demo.yml)
